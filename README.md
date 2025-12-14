@@ -1,11 +1,11 @@
 # Linear Regression
-# Linear regression finds the best straight line that fits the data.
-The line equation is:
+1.Linear regression finds the best straight line that fits the data.
+2.The line equation is:
  y=mx+b
  x = input
  y = output
  m = slope
  b = intercept
-The model changes the line to reduce error.
-Error = difference between actual value and predicted value.
-Best line = minimum error.
+3.The model changes the line to reduce error.
+4.Error = difference between actual value and predicted value.
+5.Best line = minimum error.
